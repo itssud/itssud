@@ -10,7 +10,9 @@ Skills: Python / Django / JS / HTML / CSS
 - 📫 How to reach me: sudarshan.tshn@live.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itssud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sud0348/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sudarshan.s/)  
+![](https://visitor-badge.laobi.icu/badge?page_id=itssud.itssud)               [![Github](https://img.shields.io/github/followers/itssud?label=Follow&style=social)](https://github.com/itssud)
+
+
 
 ![GitHub metrics](https://metrics.lecoq.io/itssud) 
 
