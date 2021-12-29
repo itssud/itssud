@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Sudarshan S
+### Hi there 👋, I'm Sudarshan S
 #### I am a Data Science Enthusiast
 ![I am a Data Science Enthusiast](https://raw.githubusercontent.com/itssud/itssud/main/header.png)
 
