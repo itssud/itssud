@@ -1,14 +1,16 @@
-[![Header](https://raw.githubusercontent.com/itssud/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+### Hi there 👋, Hi, I'm Sudarshan S
+#### I am a Data Science Enthusiast
+![I am a Data Science Enthusiast](https://raw.githubusercontent.com/itssud/itssud/main/header.png)
+
+Skills: Python / Django / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Python 
+- 👯 I’m looking to collaborate on Python projects 
+- 📫 How to reach me: sudarshan.tshn@live.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itssud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sud0348/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sudarshan.s/)  
 
-- 👋 Hi, I’m Sudarshan S
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any python project
-- 📫 Reach me @ sudarshan.tshn@live.com 
+![GitHub metrics](https://metrics.lecoq.io/itssud) 
 
-<!---
-itssud/itssud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
