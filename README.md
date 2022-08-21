@@ -1,5 +1,4 @@
 #### I am a Data Science Enthusiast
-![I am a Data Science Enthusiast](https://raw.githubusercontent.com/itssud/itssud/main/header.png)
 
 Skills: Python / Django / JS / HTML / CSS
 
